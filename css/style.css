@@ -1,6 +1,25 @@
 .center{
     margin: auto;
-    width: 60%;
+    width: 20%;
+    
+    padding-top: 5%;
+    
+}
+.kader{
+    padding: 30px;
+    text-align: center;
     border: 1px solid #bbbbbb;
-    padding: 10px;
+}
+.hor-grijze-lijst{
+
+    list-style: none;
+
+}
+.hor-grijze-lijst li {
+    padding-left: 30px;
+    padding-right: 30px;
+    display: inline-block;
+    font-size: 12px;
+    color:gray
+    
 }
